@@ -1,5 +1,5 @@
 <h1 align="center">Heyyyy there 👋, KT aka Komal here! </h1>
-<h2 align="center">Creative,Passionate and Coder!</h2>
+<h2 align="center">Creative,Passionate and Coder!💙</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalt2003&label=Profile%20views&color=0e75b6&style=flat" alt="komalt2003" /> </p>
 
