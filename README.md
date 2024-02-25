@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Komal Tarachandani</h1>
+<h1 align="center">Heyyyy 👋, KT aka Komal this side :) </h1>
 <h2 aligh='center'> creative,passionate and coder :) </h2>
 
 - 🔭 I’m currently working on **several projects including Diabetic Foot Ulcer detection, Distributed Architecture Book Summarization,Maternal Health App .**
