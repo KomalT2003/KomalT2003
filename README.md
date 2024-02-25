@@ -1,6 +1,5 @@
 <h1 align="center">Hi there👋, I'm Komal Tarachandani</h1>
 <h2 aligh='center'> creative,passionate and coder :) </h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=komalt2003&label=Profile%20views&color=0e75b6&style=flat" alt="komalt2003" /> </p>
 
 - 🔭 I’m currently working on **several projects including Diabetic Foot Ulcer detection, Distributed Architecture Book Summarization,Maternal Health App .**
 - 🌱 I’m currently starting to learn **Django and exploring LLMs, ML and AI.**
