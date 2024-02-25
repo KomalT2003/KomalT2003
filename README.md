@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **several projects including Diabetic Foot Ulcer detection, Distributed Architecture Book Summarization,Maternal Health App**
 - 🌱 I’m currently starting to learn **Django and exploring LLMs, ML and AI.**
 - 📫 How to reach me **komal.tarachandani@spit.ac.in**
-- ⚡ Fun fact **Iced coffee is the only thing needed for survival.**
+- ⚡ Fun fact **❄️ ☕Iced coffee is the only thing needed for survival.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/komal-tarachandani-kt2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komal-tarachandani-kt2003" height="30" width="40" /></a>
