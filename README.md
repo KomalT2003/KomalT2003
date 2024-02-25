@@ -1,5 +1,6 @@
 <h1 align="center">Heyyyy there, KT aka Komal here! </h1>
-<h2>Creative,Passionate and Coder! Im highly interested in research and devlopment of projects that can make a differnce to even one person on this planet.</h2>
+<h2>Creative,Passionate and Coder!</h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalt2003&label=Profile%20views&color=0e75b6&style=flat" alt="komalt2003" /> </p>
 - 🔭 I’m currently working on **several projects including Diabetic Foot Ulcer detection, Distributed Architecture Book Summarization,Maternal Health App .**
 - 🌱 I’m currently starting to learn **Django and exploring LLMs, ML and AI.**
