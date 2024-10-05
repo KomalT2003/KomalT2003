@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalt2003&label=Profile%20views&color=0e75b6&style=flat" alt="komalt2003" /> </p>
 
-- 🔭 I’m currently working on **several projects including Diabetic Foot Ulcer detection, Distributed Architecture Book Summarization,Maternal Health App**
+- 🔭 I’m currently working on **several projects including Diabetic Foot Ulcer detection,Diagram Maker For the Blind**
 - 🌱 I’m currently learning **Data Analysis, ML and sharpening my NLP Skills!.**
 - 🌱 I’m also improving my **problem-solving skills at Leetcode and Codeforces**
-- 📫 How to reach me **komal.tarachandani@spit.ac.in**
+- 📫 How to reach me **tarakomal12@gmail.com**
 - ⚡ Fun fact **❄️ ☕I can survive on ICED COFFEE for about 100 days.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
